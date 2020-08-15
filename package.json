@@ -1,0 +1,23 @@
+{
+  "name": "twitch-youtube-discordapi",
+  "version": "1.0.0",
+  "description": "This JS-Script should be able to post your newest uploads / streams to a discord channel of your choice!",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remadisson/twitch-youtube-discordapi.git"
+  },
+  "author": "remadisson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remadisson/twitch-youtube-discordapi/issues"
+  },
+  "homepage": "https://github.com/remadisson/twitch-youtube-discordapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
